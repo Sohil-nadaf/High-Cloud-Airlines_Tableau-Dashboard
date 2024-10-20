@@ -7,9 +7,13 @@ This repository contains a Tableau dashboard analyzing key metrics for High Clou
 The dashboard provides insights into:
 
 1.Carrier Efficiency: Top-performing carriers by load factor.
+
 2.Load Factor Analysis: Comparison of weekday vs. weekend performance.
+
 3.Route Performance: Analysis of short, medium, and long-distance flights.
+
 4.Aircraft Utilization: Efficiency of different aircraft types.
+
 5.Regional Performance: Load factor trends by carrier operating region.
 
 # Data Sources
